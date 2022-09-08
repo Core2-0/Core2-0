@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Core2-00&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -28,6 +28,7 @@ I am a beginner Frontend Developer <img src="https://media.giphy.com/media/8zldD
 - :man_student: I'm studying to be a Frontend Developer.
 - :writing_hand: I learn HTML, CSS, SCSS, JavaScript, TypeScript, React.
 - :zap: In my free time, I solve problems on <a href="https://www.codewars.com/users/Core2-0">CodeWars</a> and read tech articles.
+<img src="https://www.codewars.com/users/Core2-0/badges/large" alt="CodeWars Badge" />
 
 ---
 
