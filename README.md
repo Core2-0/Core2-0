@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8UGoPjDUAl91POg0yS/giphy.gif" width="100"/>
+  <p>Contacts me</p>
   <div id="badges">
     <a href="https://vk.com/core2r">
       <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-blue?logo=vk&logoColor=white&style=appveyor" alt="VK Badge"/>
