@@ -52,9 +52,13 @@ I am a beginner Frontend Developer <img src="https://media.giphy.com/media/8zldD
 ---
 
 ### :file_folder: Projects :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Nerds)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Cat-Energy)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Keksobooking)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Kekstagram)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Farmer-products-Store)](https://github.com/anuraghazra/github-readme-stats)
+Course Frontend Developer [HTML Academy](https://htmlacademy.ru/profession/frontender) :
+- HTML & CSS Level 1 :  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Nerds)](https://github.com/Core2-0/HTML-Academy_Nerds)
+- HTML & CSS Level 2 :  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Cat-Energy)](https://github.com/Core2-0/HTML-Academy_Cat-Energy)
+- JavaScript level 1 :  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Keksobooking)](https://github.com/Core2-0/HTML-Academy_Keksobooking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Kekstagram)](https://github.com/Core2-0/HTML-Academy_Kekstagram)
+- React level 1 :  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Farmer-products-Store)](https://github.com/Core2-0/HTML-Academy_Farmer-products-Store)
