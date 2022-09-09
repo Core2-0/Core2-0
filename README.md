@@ -14,7 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Core2-00&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there
+    Hey there, I'm Roman
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -48,3 +48,13 @@ I am a beginner Frontend Developer <img src="https://media.giphy.com/media/8zldD
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Core2-0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :file_folder: Projects :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Nerds)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Cat-Energy)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Keksobooking)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Kekstagram)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Core2-0&repo=HTML-Academy_Farmer-products-Store)](https://github.com/anuraghazra/github-readme-stats)
